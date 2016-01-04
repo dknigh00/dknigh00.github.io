@@ -164,6 +164,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header p {
+  line-height: normal;
+}
+
 header ul {
   list-style:none;
   height:40px;
